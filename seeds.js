@@ -17,6 +17,16 @@ var data=[
 		name:"Chief Paulina Horse Camp",
 		image:"https://thumbs.dreamstime.com/b/lake-two-rivers-campground-algonquin-national-park-beautiful-natural-forest-landscape-canada-parked-rv-camper-car-102840191.jpg",
 		description:"Chief Paulina Horse Camp is the only horse campground located in Newberry National Volcanic Monument in Deschutes National Forest. A favorite for horse enthusiasts, the campground provides visitors with access to lakes, lava flows and spectacular geologic features."
+	},
+	{
+		name:"Wawona Campground",
+		image:"https://www.yosemite.com/wp-content/uploads/2016/04/dry-gulch-merced-river-canyon_sm-low-res-768x511.jpg",
+		description:"The Wawona Campground is located one mile north of Wawona, at 4,000 ft (1,200 m) elevation. The campground is open all year. Loops A, B, and C: Required and available online up to five months in advance from approximately April through September"
+	},
+	{
+		name:"Drummon Lake Campground",
+		image:"https://images.squarespace-cdn.com/content/v1/5cc1d1add86cc97302714ca0/1556302575162-EVOMI41FWBUQG3K5JMDD/ke17ZwdGBToddI8pDm48kMTLu8sgmHFNwUXrcQJxFOcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dhi97jUa2TytcCum8ByYudXKQnYk-km6tMsXf96SbiOUZDqXZYzu2fuaodM4POSZ4w/11428500_908504605872536_8857769132013784113_n-2.jpg?format=500w",
+		description:"In Bayfield County in Northwest Wisconsin, midway between the cities of Hayward and Ashland, our ATV friendly campground adjoins a public park with a swimming beach, a picnic pavilion, and a paved boat landing onto Drummond Lake."
 	}
 ]
 

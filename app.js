@@ -13,7 +13,7 @@ app.use(bodyParser.urlencoded({extended:true}));
 
 // set view engine as ejs
 app.set("view engine","ejs");
-
+app.use(express.static(__dirname+"/public"));
 
 // mongoose stuff
 mongoose.set('useNewUrlParser', true);
